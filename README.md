@@ -1,4 +1,10 @@
 # CC_Mini-Project_PES1UG20CS432
+
+Name: Sparsh Agarwal
+Section: H
+SRN: PES1UG20CS432
+Roll No:41
+
 CC Project with all necessary files and permissions. This is project-1 from the given list of projects.
 
 We have updated the following files:
